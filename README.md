@@ -21,3 +21,4 @@ Applications of this project are far and wide. This type of weather application 
 
 #output 
 
+<img width="819" height="536" alt="Image" src="https://github.com/user-attachments/assets/ffe1bfa9-77a5-43ed-af89-319331d7c0f7" />
