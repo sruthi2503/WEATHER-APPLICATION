@@ -19,3 +19,5 @@ The most notable characteristics of this project are city-based search for weath
 Applications of this project are far and wide. This type of weather application can be utilized on travel and tourism websites to assist users in planning vacations by viewing weather conditions in their preferred locations. It benefits logistics and transport businesses, which require real-time weather updates to plan routes and schedules effectively. Farmers and agricultural companies can count on weather information to schedule irrigation and crop maintenance, whereas outdoor event planners can utilize it to stage events based on optimal weather. On an individual basis, people can utilize such apps to review daily weather forecasts and schedule their day in line with them. In addition, this project is a great portfolio item for would-be developers, demonstrating proficiency in front-end development, consuming an API, and responsive design, and thus is extremely valuable to both academic and career development.
 
 
+#output 
+
